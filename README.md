@@ -11,7 +11,7 @@ The primary objective of this project is to predict client churn in a fitness cl
 The project's results, including churn prediction models, visualizations, and cluster analysis, can be found in the Jupyter notebook. This notebook provides valuable insights and conclusions regarding client churn in the fitness club.
 
 The project is organized as follows:
-- `Yandex_Data_Analyst_Project_ML_churn_rate_github.ipynb`: Jupyter notebooks that include data preprocessing, EDA, modeling, and cluster analysis.
+- `Yandex_Data_Analyst_Project_ML_churn_rate_github.ipynb`:  Jupyter notebook that includes data preprocessing, EDA, modeling, and cluster analysis.
 - `README.md`: The primary project documentation file.
 
 ## Data Sources
